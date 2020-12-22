@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddUrl">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter your URL"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="40dp">
+
+    </TextView>
+    <EditText
+        android:id="@+id/UserSub"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Add Your Topic Name"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp">
+
+    </EditText>
+    <EditText
+        android:id="@+id/UserUrl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Add here URL"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp">
+
+    </EditText>
+    <Button
+        android:id="@+id/btnurl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textStyle="bold"
+        android:text="Click To Add">
+
+    </Button>
+</LinearLayout>

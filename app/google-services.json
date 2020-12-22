@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465575315412",
+    "firebase_url": "https://fetchdata-b55b0.firebaseio.com",
+    "project_id": "fetchdata-b55b0",
+    "storage_bucket": "fetchdata-b55b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465575315412:android:b8c4535cc114978c9df841",
+        "android_client_info": {
+          "package_name": "com.example.fetchdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465575315412-nie7v6hd38r48ma4ivj0stqki99bud09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW51WHYJk0fzsDuoiJYTp7RH4DdZo4NEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465575315412-nie7v6hd38r48ma4ivj0stqki99bud09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

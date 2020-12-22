@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fetchdata</string>
+    <string name="title_activity_c">c</string>
+    <string name="title_activity_cpp">Cpp</string>
+    <string name="title_activity_java">Java</string>
+    <string name="title_activity_core_java">CoreJava</string>
+    <string name="title_activity_php">Php</string>
+    <string name="title_activity_android">Android</string>
+</resources>
